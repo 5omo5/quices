@@ -1,0 +1,7 @@
+{
+  "name": "quiz1-tres",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
